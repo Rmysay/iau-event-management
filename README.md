@@ -1,4 +1,4 @@
-# Evntly — Event Management System
+# Istanbul Aydın University Event Management System
 
 ## Quick Start
 ```bash
